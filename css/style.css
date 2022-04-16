@@ -1,0 +1,22 @@
+header{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.navTop .navItem{
+    display:inline-block;
+
+}
+a{
+    text-decoration: none;
+}
+.navItem a{
+    padding: 10px 20px;
+    display: inline-block;
+}
