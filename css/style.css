@@ -20,3 +20,24 @@ a{
     padding: 10px 20px;
     display: inline-block;
 }
+.mainIntro{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: white;
+}
+.introB img{
+    height: 400px;
+}
+.mainIntro .introA{
+    background-color: white;
+    width: 50%;
+    margin: 10px;
+    text-align: left;
+    line-height: 30px;
+}
+.mainIntro .introB{
+    background-color: white;
+    width: 50%;
+    margin: 10px;
+    text-align: right;
+}
